@@ -1,9 +1,193 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{43}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Hubinger(2020{\natexlab{a}})]{post}
+Evan Hubinger.
+\newblock An overview of 11 proposals for building safe advanced {AI},
+  2020{\natexlab{a}}.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/fRsjBseRuvRhMPPE5/an-overview-of-11-proposals-for-building-safe-advanced-ai}.
+
+\bibitem[Christiano et~al.(2018)Christiano, Shlegeris, and
+  Amodei]{amplification}
+Paul Christiano, Buck Shlegeris, and Dario Amodei.
+\newblock Supervising strong learners by amplifying weak experts.
+\newblock \emph{arXiv}, 2018.
+\newblock URL \url{https://arxiv.org/abs/1810.08575}.
+
+\bibitem[Irving et~al.(2018)Irving, Christiano, and Amodei]{debate}
+Geoffrey Irving, Paul Christiano, and Dario Amodei.
+\newblock {AI} safety via debate.
+\newblock \emph{arXiv}, 2018.
+\newblock URL \url{https://arxiv.org/abs/1805.00899}.
+
+\bibitem[Leike et~al.(2018)Leike, Krueger, Everitt, Martic, Maini, and
+  Legg]{leike}
+Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, and Shane
+  Legg.
+\newblock Scalable agent alignment via reward modeling: a research direction.
+\newblock \emph{arXiv}, 2018.
+\newblock URL \url{https://arxiv.org/abs/1811.07871}.
+
+\bibitem[Hubinger et~al.(2019)Hubinger, van Merwijk, Mikulika, Skalse, and
+  Garrabrant]{risks}
+Evan Hubinger, Chris van Merwijk, Vladimir Mikulika, Joar Skalse, and Scott
+  Garrabrant.
+\newblock {Risks from Learned Optimization in Advanced Machine Learning
+  Systems}.
+\newblock \emph{arXiv}, 2019.
+\newblock URL \url{https://arxiv.org/abs/1906.01820}.
+
+\bibitem[Hubinger(2020{\natexlab{b}})]{market_making}
+Evan Hubinger.
+\newblock {AI} safety via market making, 2020{\natexlab{b}}.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/YWwzccGbcHMJMpT45/ai-safety-via-market-making}.
+
+\bibitem[Bostrom(2014)]{superintelligence}
+Nick Bostrom.
+\newblock \emph{Superintelligence: Paths, Dangers, Strategies}.
+\newblock Oxford University Press, 2014.
+\newblock URL
+  \url{https://global.oup.com/academic/product/superintelligence-9780199678112?cc=us&lang=en&}.
+
+\bibitem[Hubinger(2020{\natexlab{c}})]{outer_alignment}
+Evan Hubinger.
+\newblock Outer alignment and imitative amplification, 2020{\natexlab{c}}.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/33EKjmAdKFn3pbKPJ/outer-alignment-and-imitative-amplification}.
+
+\bibitem[Soares et~al.(2015)Soares, Fallenstein, Yudkowsky, and
+  Armstrong]{corrigibility}
+Nate Soares, Benja Fallenstein, Eliezer Yudkowsky, and Stuart Armstrong.
+\newblock Corrigibility.
+\newblock \emph{AAAI 2015}, 2015.
+\newblock URL \url{https://intelligence.org/files/Corrigibility.pdf}.
+
+\bibitem[Hubinger(2019{\natexlab{a}})]{mechanistic}
+Evan Hubinger.
+\newblock Towards a mechanistic understanding of corrigibility,
+  2019{\natexlab{a}}.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/BKM8uQS6QdJPZLqCr/towards-a-mechanistic-understanding-of-corrigibility}.
+
+\bibitem[Baker et~al.(2019)Baker, Kanitscheider, Markov, Wu, Powell, McGrew,
+  and Mordatch]{tool_use}
+Bowen Baker, Ingmar Kanitscheider, Todor Markov, Yi~Wu, Glenn Powell, Bob
+  McGrew, and Igor Mordatch.
+\newblock {Emergent Tool Use From Multi-Agent Autocurricula}.
+\newblock \emph{arXiv}, 2019.
+\newblock URL \url{https://arxiv.org/abs/1909.07528}.
+
+\bibitem[Ngo(2020)]{multi_agent_safety}
+Richard Ngo.
+\newblock Multi-agent safety, 2020.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/BXMCgpktdiawT3K5v/multi-agent-safety}.
+
+\bibitem[Olah et~al.(2020)Olah, Cammarata, Schubert, Goh, Petrov, and
+  Carter]{circuits}
+Chris Olah, Nick Cammarata, Ludwig Schubert, Gabriel Goh, Michael Petrov, and
+  Shan Carter.
+\newblock {Thread: Circuits}.
+\newblock \emph{Distill}, 2020.
+\newblock URL \url{https://distill.pub/2020/circuits/}.
+
+\bibitem[Christiano(2016{\natexlab{a}})]{catastrophes}
+Paul Christiano.
+\newblock Learning with catastrophes, 2016{\natexlab{a}}.
+\newblock URL
+  \url{https://ai-alignment.com/learning-with-catastrophes-59387b55cc30}.
+
+\bibitem[Hubinger(2019{\natexlab{b}})]{chris_olah}
+Evan Hubinger.
+\newblock {Chris Olah’s views on AGI safety}, 2019{\natexlab{b}}.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/X2i9dQQK3gETCyqh2/chris-olah-s-views-on-agi-safety}.
+
+\bibitem[Hubinger(2019{\natexlab{c}})]{adversarial_ida}
+Evan Hubinger.
+\newblock {A Concrete Proposal for Adversarial IDA}, 2019{\natexlab{c}}.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/jYvm4mmjvGHcPXtGL/a-concrete-proposal-for-adversarial-ida}.
+
+\bibitem[Christiano(2016{\natexlab{b}})]{strong_hch}
+Paul Christiano.
+\newblock Strong {HCH}, 2016{\natexlab{b}}.
+\newblock URL \url{https://ai-alignment.com/strong-hch-bedb0dc08d4e}.
+
+\bibitem[Christiano(2019)]{universality}
+Paul Christiano.
+\newblock Universality and consequentialism within {HCH}, 2019.
+\newblock URL
+  \url{https://ai-alignment.com/universality-and-consequentialism-within-hch-c0bee00365bd}.
+
+\bibitem[Christiano(2015)]{efficient_feedback}
+Paul Christiano.
+\newblock Efficient feedback, 2015.
+\newblock URL \url{https://ai-alignment.com/efficient-feedback-a347748b1557}.
+
+\bibitem[Hubinger(2019{\natexlab{d}})]{relaxed}
+Evan Hubinger.
+\newblock Relaxed adversarial training for inner alignment, 2019{\natexlab{d}}.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/9Dy5YRaoCxH9zuJqa/relaxed-adversarial-training-for-inner-alignment}.
+
+\bibitem[Hubinger(2019{\natexlab{e}})]{gradient_hacking}
+Evan Hubinger.
+\newblock Gradient hacking, 2019{\natexlab{e}}.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/uXH4r6MmKPedk8rMA/gradient-hacking}.
+
+\bibitem[Warnell et~al.(2017)Warnell, Waytowich, Lawhern, and
+  Stone]{deep_tamer}
+Garrett Warnell, Nicholas Waytowich, Vernon Lawhern, and Peter Stone.
+\newblock {Deep TAMER: Interactive Agent Shaping in High-Dimensional State
+  Spaces}.
+\newblock \emph{arXiv}, 2017.
+\newblock URL \url{https://arxiv.org/abs/1709.10163}.
+
+\bibitem[Arumugam et~al.(2019)Arumugam, Lee, Saskin, and Littman]{deep_rl}
+Dilip Arumugam, Jun~Ki Lee, Sophie Saskin, and Michael~L. Littman.
+\newblock {Deep Reinforcement Learning from Policy-Dependent Human Feedback}.
+\newblock \emph{arXiv}, 2019.
+\newblock URL \url{https://arxiv.org/abs/1902.04257}.
+
+\bibitem[Christiano(2014)]{model_free}
+Paul Christiano.
+\newblock Approval-directed agents, 2014.
+\newblock URL \url{https://ai-alignment.com/model-free-decisions-6e6609f5d99e}.
+
+\bibitem[Olah(2015)]{visualizing}
+Chris Olah.
+\newblock {Visualizing Representations: Deep Learning and Human Beings}, 2015.
+\newblock URL
+  \url{https://colah.github.io/posts/2015-01-Visualizing-Representations/}.
+
+\bibitem[Christiano(2016{\natexlab{c}})]{universal_prior}
+Paul Christiano.
+\newblock What does the universal prior actually look like?,
+  2016{\natexlab{c}}.
+\newblock URL
+  \url{https://ordinaryideas.wordpress.com/2016/11/30/what-does-the-universal-prior-actually-look-like}.
+
+\bibitem[Demski(2019)]{partial_agency}
+Abram Demski.
+\newblock {Partial Agency}, 2019.
+\newblock URL \url{https://www.alignmentforum.org/s/HeYtBkNbEe7wpjc6X}.
+
+\bibitem[Radford et~al.(2019)Radford, Wu, Child, Luan, Amodei, and
+  Sutskever]{language_models}
+Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya
+  Sutskever.
+\newblock {Language Models are Unsupervised Multitask Learners}.
+\newblock \emph{{OpenAI}}, 2019.
+\newblock URL
+  \url{https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf}.
 
 \bibitem[Kumar and Garrabrant(2019)]{human_models}
 Ramana Kumar and Scott Garrabrant.
@@ -11,5 +195,114 @@ Ramana Kumar and Scott Garrabrant.
 \newblock \emph{MIRI}, 2019.
 \newblock URL
   \url{https://intelligence.org/2019/02/22/thoughts-on-human-models}.
+
+\bibitem[Kusumoto et~al.(2018)Kusumoto, Yahata, and Sakai]{theorem_proving}
+Mitsuru Kusumoto, Keisuke Yahata, and Masahiro Sakai.
+\newblock {Automated Theorem Proving in Intuitionistic Propositional Logic by
+  Deep Reinforcement Learning}.
+\newblock \emph{arXiv}, 2018.
+\newblock URL \url{https://arxiv.org/abs/1811.00796}.
+
+\bibitem[Bansal et~al.(2019)Bansal, Loos, Rabe, Szegedy, and Wilcox]{holist}
+Kshitij Bansal, Sarah~M. Loos, Markus~N. Rabe, Christian Szegedy, and Stewart
+  Wilcox.
+\newblock {HOList: An Environment for Machine Learning of Higher-Order Theorem
+  Proving}.
+\newblock \emph{arXiv}, 2019.
+\newblock URL \url{https://arxiv.org/abs/1904.03241}.
+
+\bibitem[Senior et~al.(2020)Senior, Evans, Jumper, Kirkpatrick, Sifre, Green,
+  Qin, Žídek, Nelson, Bridgland, Penedones, Petersen, Simonyan, Crossan,
+  Kohli, Jones, Silver, Kavukcuoglu, and Hassabis]{protein}
+Andrew~W. Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre,
+  Tim Green, Chongli Qin, Augustin Žídek, Alexander W.~R. Nelson, Alex
+  Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan,
+  Pushmeet Kohli, David~T. Jones, David Silver, Koray Kavukcuoglu, and Demis
+  Hassabis.
+\newblock Improved protein structure prediction using potentials from deep
+  learning.
+\newblock \emph{Nature}, 2020.
+\newblock URL \url{https://www.nature.com/articles/s41586-019-1923-7.epdf}.
+
+\bibitem[Bostrom(2019)]{vulnerable}
+Nick Bostrom.
+\newblock {The Vulnerable World Hypothesis}.
+\newblock \emph{{Global Policy}}, 2019.
+\newblock URL \url{https://nickbostrom.com/papers/vulnerable.pdf}.
+
+\bibitem[Sandberg and Bostrom(2008)]{wbe}
+Anders Sandberg and Nick Bostrom.
+\newblock {Whole Brain Emulation: A Roadmap}.
+\newblock \emph{{FHI}}, 2008.
+\newblock URL
+  \url{https://www.fhi.ox.ac.uk/brain-emulation-roadmap-report.pdf}.
+
+\bibitem[Ren et~al.(2019)Ren, Liu, Fertig, Snoek, Poplin, DePristo, Dillon, and
+  Lakshminarayanan]{out_of_distribution}
+Jie Ren, Peter~J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark~A.
+  DePristo, Joshua~V. Dillon, and Balaji Lakshminarayanan.
+\newblock {Likelihood Ratios for Out-of-Distribution Detection}.
+\newblock \emph{arXiv}, 2019.
+\newblock URL \url{https://arxiv.org/abs/1906.02845}.
+
+\bibitem[Ho and Ermon(2016)]{generative}
+Jonathan Ho and Stefano Ermon.
+\newblock {Generative Adversarial Imitation Learning}.
+\newblock \emph{arXiv}, 2016.
+\newblock URL \url{https://arxiv.org/abs/1606.03476}.
+
+\bibitem[Fu et~al.(2017)Fu, Luo, and Levine]{learning_robust_rewards}
+Justin Fu, Katie Luo, and Sergey Levine.
+\newblock {Learning Robust Rewards with Adversarial Inverse Reinforcement
+  Learning}.
+\newblock \emph{arXiv}, 2017.
+\newblock URL \url{https://arxiv.org/abs/1710.11248}.
+
+\bibitem[Drexler(2019)]{reframing_si}
+K.~Eric Drexler.
+\newblock {Reframing Superintelligence: Comprehensive AI Services as General
+  Intelligence}.
+\newblock \emph{{FHI}}, 2019.
+\newblock URL
+  \url{https://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf}.
+
+\bibitem[Barnes and Christiano(2020)]{debate_progress}
+Beth Barnes and Paul Christiano.
+\newblock {Writeup: Progress on AI Safety via Debate}, 2020.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/Br4xDbYu4Frwrb64a/writeup-progress-on-ai-safety-via-debate-1}.
+
+\bibitem[Silver et~al.(2018)Silver, Hubert, Schrittwieser, Antonoglou, Lai,
+  Guez, Lanctot, Sifre, Kumaran, Graepel, Lillicrap, Simonyan, and
+  Hassabis]{go}
+David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew
+  Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore
+  Graepel, Timothy Lillicrap, Karen Simonyan, and Demis Hassabis.
+\newblock A general reinforcement learning algorithm that masters chess, shogi,
+  and {Go} through self-play.
+\newblock \emph{Science}, 2018.
+\newblock URL
+  \url{https://science.sciencemag.org/content/362/6419/1140.full?ijkey=XGd77kI6W4rSc&keytype=ref&siteid=sci}.
+
+\bibitem[Wolski et~al.(2018)Wolski, Sidor, Petrov, Farhi, Raiman, Zhang,
+  Brockman, Dennison, Tang, Pondé, Chan, Pachocki, and Dębiak]{openai_five}
+Filip Wolski, Szymon Sidor, Michael Petrov, David Farhi, Jonathan Raiman, Susan
+  Zhang, Greg Brockman, Christy Dennison, Jie Tang, Henrique Pondé, Brooke
+  Chan, Jakub Pachocki, and Przemysław Dębiak.
+\newblock {OpenAI Five}, 2018.
+\newblock URL \url{https://openai.com/blog/openai-five/}.
+
+\bibitem[{The AlphaStar team}(2019)]{alphastar}
+{The AlphaStar team}.
+\newblock {AlphaStar: Mastering the Real-Time Strategy Game StarCraft II},
+  2019.
+\newblock URL
+  \url{https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii}.
+
+\bibitem[Hubinger(2020{\natexlab{d}})]{synthesizing}
+Evan Hubinger.
+\newblock Synthesizing amplification and debate, 2020{\natexlab{d}}.
+\newblock URL
+  \url{https://www.alignmentforum.org/posts/dJSD5RK6Qoidb3QY5/synthesizing-amplification-and-debate}.
 
 \end{thebibliography}

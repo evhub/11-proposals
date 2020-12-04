@@ -160,7 +160,8 @@
 % PRINT FIRST-PAGE NOTICE
 % - This used to be for a copyright declaration, but that has been replaced by a generic footer slug
 \def\copyright@year{\number\year}
-\def\copyright@text{Research supported by the Machine Intelligence Research Institute (intelligence.org).}
+\def\copyright@text{}
+% \def\copyright@text{Research supported by the Machine Intelligence Research Institute (intelligence.org).}
 \def\copyright@on{T}
 \def\nocopyright{\gdef\copyright@on{}}
 \def\copyrighttext#1{\gdef\copyright@on{T}\gdef\copyright@text{#1}}
